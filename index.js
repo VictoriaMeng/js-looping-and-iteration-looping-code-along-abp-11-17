@@ -8,4 +8,4 @@ function printBadges(names) {
   return names;
 }
 
-printBadges();
+
