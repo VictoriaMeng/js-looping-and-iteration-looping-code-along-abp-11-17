@@ -16,6 +16,8 @@ function tailsNeverFails() {
   }
 
   console.log(`${tails}`);
+
+  return tails;
 }
 
 tailsNeverFails();
