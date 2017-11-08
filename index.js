@@ -10,6 +10,8 @@ function printBadges(names) {
 
 function tailsNeverFails() {
 
-  Math.random();
+  while (Math.random() < .5) {
+    
+  }
 
 }
