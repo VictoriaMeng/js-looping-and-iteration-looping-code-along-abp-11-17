@@ -20,5 +20,5 @@ function tailsNeverFails() {
     maybeTrue();
   }
 
-  return tails;
+  return 'You got ${tails} tails in a row!';
 }
