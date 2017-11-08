@@ -10,5 +10,6 @@ function printBadges(names) {
 
 function tailsNeverFails() {
 
+  Math.random();
 
 }
