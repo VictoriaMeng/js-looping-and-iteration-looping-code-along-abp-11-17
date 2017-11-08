@@ -1,5 +1,5 @@
 // Code your solutions in this file
-const names = []
+const names = [];
 
 function printBadges() {
   for (let counter = 0; counter < names.length; counter++) {
