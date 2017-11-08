@@ -11,7 +11,7 @@ function printBadges(names) {
 function tailsNeverFails() {
 
   while (let result = Math.random() < .5) {
-    console.log('${result}');
+
   }
 
 }
