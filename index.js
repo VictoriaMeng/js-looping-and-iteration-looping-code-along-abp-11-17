@@ -15,7 +15,7 @@ function tailsNeverFails() {
     tails++
   }
 
-  console.log(`tails`);
+  console.log(`${tails}`);
 }
 
 tailsNeverFails();
