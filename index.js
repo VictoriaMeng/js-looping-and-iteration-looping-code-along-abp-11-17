@@ -9,7 +9,7 @@ function printBadges(names) {
 }
 
 function maybeTrue() {
-  Math.random() < .5;
+  return Math.random() < .5;
 }
 
 function tailsNeverFails() {
