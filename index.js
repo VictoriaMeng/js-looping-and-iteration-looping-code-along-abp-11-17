@@ -8,6 +8,10 @@ function printBadges(names) {
   return names;
 }
 
+function maybeTrue() {
+  Math.random() >= 0.5);
+}
+
 function tailsNeverFails() {
   let tails = 0;
 
