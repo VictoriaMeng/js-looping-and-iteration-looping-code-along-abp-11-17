@@ -10,8 +10,5 @@ function printBadges(names) {
 
 function tailsNeverFails() {
 
-  while () {
-
-  };
 
 }
