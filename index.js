@@ -12,6 +12,6 @@ function tailsNeverFails() {
 
   while () {
 
-  }
+  };
 
 }
