@@ -14,4 +14,6 @@ function tailsNeverFails() {
   if (Math.random() < .5) {
     tails++
   }
+
+  return tails
 }
