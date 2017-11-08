@@ -17,3 +17,5 @@ function tailsNeverFails() {
 
   return tails
 }
+
+tailsNeverFails();
