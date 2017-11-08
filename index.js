@@ -15,7 +15,7 @@ function tailsNeverFails() {
     tails++
   }
 
-  return tails
+  console.log(`tails`)
 }
 
 tailsNeverFails();
