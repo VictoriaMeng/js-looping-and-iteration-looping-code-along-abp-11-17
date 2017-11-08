@@ -3,4 +3,5 @@ function printBadges(names) {
   for (let counter = 0, counter < names.length, counter++) {
     
   }
+  
 }
