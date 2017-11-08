@@ -17,6 +17,7 @@ function tailsNeverFails() {
 
   while (maybeTrue()) {
     tails++;
+    maybeTrue();
   }
 
   return tails;
