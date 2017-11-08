@@ -9,6 +9,7 @@ function printBadges(names) {
 }
 
 function tailsNeverFails() {
+  let tails = 0
 
-  Math.random(); 
+  Math.random();
 }
