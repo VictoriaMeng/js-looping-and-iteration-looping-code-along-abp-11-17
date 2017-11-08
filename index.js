@@ -15,7 +15,7 @@ function maybeTrue() {
 function tailsNeverFails() {
   let tails = 0;
 
-  while (tails === 0) {
+  while (tails < 5) {
     tails++;
   }
 
