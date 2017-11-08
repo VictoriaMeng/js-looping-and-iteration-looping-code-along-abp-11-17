@@ -12,7 +12,7 @@ function tailsNeverFails() {
   let tails = 0
 
   while (Math.random() < .5) {
-    tails++
+    tails++;
   }
 
   console.log(`${tails}`);
