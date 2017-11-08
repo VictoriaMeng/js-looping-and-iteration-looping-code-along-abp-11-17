@@ -11,5 +11,7 @@ function printBadges(names) {
 function tailsNeverFails() {
   let tails = 0
 
-  Math.random();
+  if (Math.random() < .5) {
+    tails++
+  }
 }
